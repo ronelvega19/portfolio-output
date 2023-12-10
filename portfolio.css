@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Inter&family=Mukta&family=Quicksand:wght@400;700&display=swap');
+
+
+main{
+    background-color: #000000;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(#141a38, #353F74,#215974, #5489a1);
+ 
+}
+
+
+.backpart{
+    position: absolute;
+   
+    left: 50%;
+    transform: translate(-50%);
+    
+
+}
+.stack{
+    color: #FBCA62;
+  }
+
+  .interest{
+    font-weight: bolder;
+     font-size: 1.6rem;
+     color: rgb(34, 34, 34);
+     margin-bottom: 20px;
+   }
+
+   .intro{
+    color: rgb(56, 56, 56);
+   margin-top: 20px;
+   font-size: 1.1rem;
+  }
+
+
+.hello{
+    font-size: 5rem;
+    letter-spacing: 3px;
+    margin-bottom: 30px;
+    font-family: 'Dela Gothic One', sans-serif;
+    font-weight: 200;
+    color: white;
+}
+
+
+.hellos{
+    color: #70E5E6;
+    margin-top: 75px;
+    margin-bottom: 30px;
+    min-width: 700px;
+  }
+
+  .aspiring{
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+    color: white;
+  }
+
+  .contacts{
+    display: flex;
+    
+  }
+
+  .social{
+    display: flex;
+    align-items: center;
+   margin-right: 25px;
+  
+   
+  }
+  .fullstack{
+    
+    color: #215974;
+    font-size: 1.4rem;
+    margin-bottom: 30px;
+    font-weight: bold;
+  }
+
+
+  .btn-portfolio{
+    font-size: 20px;
+    padding: 20px 30px 20px;
+    border-radius: 50px;
+    margin-top: 50px;
+    border-style: none;
+    background-color: #6994A8;
+    color: #ffffff;
+    width: max-content;
+}
+
+
+
+
+.btn-portfolio:hover{
+    background-color: #3e697c;
+    color: #000000;
+    cursor: pointer;
+}
+
+.my-pic{
+ width: 100%;
+ max-height: 700px;
+ max-width: 500px;
+}
+
+
+
+.title-container{
+   
+   
+    display: flex;
+    
+
+}
